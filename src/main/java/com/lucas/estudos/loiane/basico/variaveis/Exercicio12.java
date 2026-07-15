@@ -1,4 +1,4 @@
-package com.lucas.estudos.loiane.basico;
+package com.lucas.estudos.loiane.basico.variaveis;
 
 import java.util.Scanner;
 

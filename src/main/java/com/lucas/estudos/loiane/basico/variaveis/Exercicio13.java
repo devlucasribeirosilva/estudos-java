@@ -1,6 +1,5 @@
-package com.lucas.estudos.loiane.basico;
+package com.lucas.estudos.loiane.basico.variaveis;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Exercicio13 {

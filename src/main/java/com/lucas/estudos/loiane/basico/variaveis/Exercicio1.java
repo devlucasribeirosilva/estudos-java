@@ -1,4 +1,4 @@
-package com.lucas.estudos.loiane.basico;
+package com.lucas.estudos.loiane.basico.variaveis;
 
 public class Exercicio1 {
     public static void main(String[] args) {
