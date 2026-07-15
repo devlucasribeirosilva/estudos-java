@@ -1,4 +1,4 @@
-package com.lucas.estudos.nelioalves;
+package com.lucas.estudos.nelioalves.variaveis;
 
 import java.util.Scanner;
 
